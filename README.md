@@ -1,4 +1,4 @@
-# 🎵 Spotify - Imersão Front End Alura
+# 🎵 Spotify - Imersão Front End Alura - Aula 2
 
 🚀 **Projeto desenvolvido durante a Imersão Front End da Alura**
 
